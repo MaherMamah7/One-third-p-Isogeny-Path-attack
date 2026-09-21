@@ -184,3 +184,6 @@ so treat `Pr[claw]` as an order-of-magnitude / lower-bound guide. Pure Python
   number of rerandomizations is `1/Pr[claw]` (estimate it with `smooth_sigma`).
 - Both attacks are heuristic and randomized; running times and the degree of the
   recovered isogeny vary from run to run.
+
+**License**
+MIT License.
